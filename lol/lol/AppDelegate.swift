@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  alfa
+//  lol
 //
-//  Created by Вера Пасиченко on 22.10.2023.
+//  Created by Вера Пасиченко on 23.10.2023.
 //
 
 import UIKit
